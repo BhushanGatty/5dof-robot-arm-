@@ -8,4 +8,4 @@ This is a 5-Degrees-of-Freedom (5-DOF) robotic arm designed and assembled in **S
 - **DOF:** 5 Degrees of Freedom
 - **Actuators:** 3x Standard Servos, 2x Micro Servos
   
-## Community Stats(GrabCAD): 400+ downloads
+Community Stats(GrabCAD): 400+ downloads
